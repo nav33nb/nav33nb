@@ -19,16 +19,15 @@ I have a wide-ranging interest in various DevOps techniques, with a focus on des
 
 ---
 # I work with ...
-- KDE Neon
-- VSCode
-- Git
-- Kubernetes
-- Terraform
-- Ansible
-- Docker
+[<img src='img/logos/neon.png' width=50px>](https://neon.kde.org/)
+[<img src='img/logos/vscode.png' width=50px>](https://code.visualstudio.com/)
+[<img src='img/logos/git.png' width=50px>](https://git-scm.com/)
+[<img src='img/logos/docker.png' width=50px>](https://docker.io/)
+[<img src='img/logos/k8s.png' width=50px>](https://kubernetes.io/)
+[<img src='img/logos/ansible.png' width=50px>](https://www.ansible.com/)
+[<img src='img/logos/terraform.png' width=50px>](https://www.terraform.io/)
 
 ... and much more 🚀
-
 
 
 <!-- # Reach me on 📲
