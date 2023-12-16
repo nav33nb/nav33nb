@@ -1,12 +1,11 @@
 # Hello There ✌️
-As a passionate computer enthusiast, I am always eager to learn about new technologies in software solutions 💻 With over 2 years of experience I have developed and deployed highly available, large-scale microservices-based solutions<br>
-Occasionally I make Digital Art (and animations) as well 🎨
+As a passionate computer enthusiast, I am always eager to learn about new technologies in software solutions 💻 With over 2 years of experience I have developed and deployed highly available, large-scale micro services-based solutions
 
+I have a wide-ranging interest in various Dev-Ops techniques, with a focus on designing and delivering robust software solutions. Supplementing my current certifications and experience, I am deepening my knowledge in Ansible and automation concepts, aiming to gain a comprehensive understanding of the entire pipeline of software solutions lifecycle, including everything from provisioning and automation to configuration and deployment techniques.
 
-I have a wide-ranging interest in various DevOps techniques, with a focus on designing and delivering robust software solutions. Currently, I am deepening my knowledge in Ansible, aiming to gain a comprehensive understanding of the entire process of software system creation and deployment. This includes everything from provisioning and automation to configuration and deployment techniques.
-
-- 🌱 I’m currently learning DevOps, Ansible, Networking and Security
-- 💬 Ask me about Kubernetes, Docker, Terraform IaC, Automation
+* 🌱 I’m currently learning DevOps, Ansible, Networking and Security
+* 💬 Ask me about Kubernetes, Docker, Terraform IaC, Automation
+* 🎨 Occasionally I make Digital Art (and animations) as well
 
 <br>
 
