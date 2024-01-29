@@ -18,7 +18,7 @@ I have a wide-ranging interest in various Dev-Ops techniques, with a focus on de
 
 ---
 # I work with ...
-[<img src='img/logos/neon.png' width=50px>](https://neon.kde.org/)
+[<img src='img/logos/eos.png' width=50px>](https://endeavouros.com/)
 [<img src='img/logos/vscode.png' width=50px>](https://code.visualstudio.com/)
 [<img src='img/logos/git.png' width=50px>](https://git-scm.com/)
 [<img src='img/logos/docker.png' width=50px>](https://docker.io/)
