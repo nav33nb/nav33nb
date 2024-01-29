@@ -1,9 +1,9 @@
 # Hello There ✌️
-As a passionate ComSci enthusiast, I am always eager to learn about new technologies in software solutions 💻 With over 2 years of experience I have developed and deployed highly available, large-scale micro services-based solutions. Along With a good knowledge base due to variety of side projects.
+As a passionate CompSci enthusiast, I am always eager to learn about new technologies in software solutions 💻 With over 2 years of experience I have developed and deployed highly available, large-scale micro services-based solutions. Along With a good knowledge base due to variety of side projects.
 
-I have a wide-ranging interest in various Dev-Ops techniques, with a focus on designing and delivering robust software solutions as well as good breadth of knowledge due to variety of side-projects. Supplementing my current certifications and experience, I am currently deepening my knowledge in Ansible and automation concepts, aiming to gain a comprehensive understanding of the entire pipeline of software solutions lifecycle, including everything from provisioning and automation to configuration and deployment techniques.
+I have a wide-ranging interest in various Dev-Ops techniques, with a focus on designing and delivering robust software solutions as well as good breadth of knowledge due to variety of side-projects. Supplementing my current certifications and experience, I am currently deepening my knowledge in Kubernetes, Ansible and automation concepts, aiming to gain a comprehensive understanding of the entire pipeline of software solutions lifecycle, including everything from provisioning and automation to configuration and deployment techniques.
 
-* 🌱 I’m currently learning DevOps, Ansible, Networking and Security
+* 🌱 I’m currently learning DevOps, Kubernetes, Ansible, Networking & Security
 * 💬 Ask me about Kubernetes, Docker, Terraform IaC, Automation
 * 🎨 Occasionally I make Digital Art (and animations) as well
 
