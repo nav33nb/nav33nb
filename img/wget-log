@@ -1,0 +1,11 @@
+--2024-01-29 18:46:32--  https://i0.wp.com/endeavouros.com/wp-content/uploads/2019/08/EndeavourOS-logo.png?fit=500%2C488
+Resolving i0.wp.com (i0.wp.com)... 192.0.77.2
+Connecting to i0.wp.com (i0.wp.com)|192.0.77.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10839 (11K) [image/png]
+Saving to: ‘EndeavourOS-logo.png?fit=500,488’
+
+EndeavourOS-logo.png?fit=500,488                  0%[                                                                                                     ]       0  --.-KB/s               EndeavourOS-logo.png?fit=500,488                100%[====================================================================================================>]  10.58K  --.-KB/s    in 0.004s  
+
+2024-01-29 18:46:33 (2.71 MB/s) - ‘EndeavourOS-logo.png?fit=500,488’ saved [10839/10839]
+
