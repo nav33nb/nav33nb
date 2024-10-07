@@ -1,5 +1,5 @@
 # Hello There ✌️
-Passionate individual with keen interest in software solutions possessing a broad knowledge base acquired from diverse projects from software development, devops, security, and research. Formerly engaged in developing, maintaining and securing high-performing micro-services based software solutions. Currently expanding skills in Kubernetes, Networking and Automation, actively seeking new opportunities for collaboration and further work in these domains.
+Passionate individual with keen interest in software solutions possessing a broad knowledge base acquired through diverse projects from software development, devops, security, and research. Formerly engaged in developing, maintaining and securing high-performing micro-services based software solutions. Currently expanding skills in Kubernetes, Networking and Automation, actively seeking new opportunities for collaboration and further work in these domains.
 
 * 🌱 I’m currently learning DevOps, Kubernetes, Ansible, Networking & Security
 * 💬 Ask me about Kubernetes, Docker, Terraform IaC, Automation
