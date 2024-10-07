@@ -1,5 +1,5 @@
 # Hello There ✌️
-Passionate individual with keen interest in software solutions possessing a broad knowledge base acquired from diverse projects encompassing development, security, and research. Formerly engaged in developing, maintaining and securing high-performing micro-services based software solutions. Currently expanding skills in Kubernetes, Networking and Automation, actively seeking new opportunities for collaboration and further work in these domains.
+Passionate individual with keen interest in software solutions possessing a broad knowledge base acquired from diverse projects from software development, devops, security, and research. Formerly engaged in developing, maintaining and securing high-performing micro-services based software solutions. Currently expanding skills in Kubernetes, Networking and Automation, actively seeking new opportunities for collaboration and further work in these domains.
 
 * 🌱 I’m currently learning DevOps, Kubernetes, Ansible, Networking & Security
 * 💬 Ask me about Kubernetes, Docker, Terraform IaC, Automation
@@ -29,8 +29,6 @@ Passionate individual with keen interest in software solutions possessing a broa
 
 <!-- # Reach me on 📲
 - [LinkedIn](https://www.linkedin.com/in/naveenbassi/)
-- [Mail](mailto:naveenbassi33@gmail.com) -->
-<!-- - [Instagram](https://instagram.com/nav33nb) -->
 
 <!--
 **nav33nb/nav33nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
